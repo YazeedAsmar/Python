@@ -25,16 +25,6 @@ Develop core programming and mathematical skills necessary for data analysis. Th
 - Uniform, binomial, and normal distributions
 - Use of visualizations to interpret distributions
 
-### 4. Jupyter Notebooks
-- Installing and launching notebooks
-- Markdown vs. code cells
-- Writing and running Python interactively
-
-### 5. Git & GitHub Basics
-- Git initialization, commits, and branches
-- GitHub repositories and collaboration
-- Making your first pull request
-
 ---
 
 ## Tools
@@ -43,9 +33,7 @@ Develop core programming and mathematical skills necessary for data analysis. Th
 |-----------------|-------------------------------------|
 | Python          | Core programming language           |
 | Jupyter Notebook| Write and run Python code interactively |
-| VS Code         | Optional editor for Python coding   |
-| Git             | Version control system              |
-| GitHub          | Online platform for code hosting    |
+
 
 ---
 
