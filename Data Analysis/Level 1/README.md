@@ -17,27 +17,26 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Applying functions with `.apply()`, `.map()`, and `.lambda`
 - Transforming data with `.pivot()`, `.melt()`, `.stack()`, `.unstack()`
 
-### 2. [NumPy for Numerical Operations](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/numPy_for_numerical_operations.ipynb)
+### 2. [Data Types & Conversions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_types_and_conversions.ipynb)
+- Understanding `object`, `int`, `float`, `category`, `datetime`
+- Type conversions using `.astype()` and `pd.to_datetime()`
+
+### 3. [Filtering, Sorting & Feature Creation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/filtering_sorting_and_feature_creation_in_pandas.ipynb)
+- Boolean indexing and advanced filtering
+- Sorting by index or column values
+- Creating new columns and features from existing ones
+
+### 4. [Data Cleaning Techniques](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_cleaning_techniques_in_pandas.ipynb)
+- Handling missing data with `.fillna()`, `.dropna()`
+- Detecting and fixing incorrect or inconsistent data
+- Working with duplicate values
+
+### 5. [NumPy for Numerical Operations](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/numPy_for_numerical_operations.ipynb)
 - Creating and manipulating arrays
 - Indexing, slicing, and reshaping
 - Element-wise operations
 - Broadcasting
 - Aggregations like mean, median, and std
-
-### 3. [Data Cleaning Techniques](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_cleaning_techniques_in_pandas.ipynb)
-- Handling missing data with `.fillna()`, `.dropna()`
-- Detecting and fixing incorrect or inconsistent data
-- Working with duplicate values
-
-### 4. [Data Types & Conversions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_types_and_conversions.ipynb)
-- Understanding `object`, `int`, `float`, `category`, `datetime`
-- Type conversions using `.astype()` and `pd.to_datetime()`
-
-### 5. [Filtering, Sorting & Feature Creation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/filtering_sorting_and_feature_creation_in_pandas.ipynb)
-- Boolean indexing and advanced filtering
-- Sorting by index or column values
-- Creating new columns and features from existing ones
-
 ---
 
 ## Tools
