@@ -21,7 +21,7 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Understanding `object`, `int`, `float`, `category`, `datetime`
 - Type conversions using `.astype()` and `pd.to_datetime()`
 
-### 3.Selecting Data with Pandas
+### 3. [Selecting Data with Pandas](https://github.com/Mohamad-Selawy/Python/blob/master/Data%20Analysis/Level%201/Selecting_data_in_Pandas.ipynb)
 -Understanding the structure of a DataFrame
 -Selecting single and multiple columns
 -Selecting rows using `.loc` and `.iloc`
