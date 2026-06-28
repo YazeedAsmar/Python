@@ -21,6 +21,20 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Understanding `object`, `int`, `float`, `category`, `datetime`
 - Type conversions using `.astype()` and `pd.to_datetime()`
 
+### 3.Selecting Data with Pandas
+-Understanding the structure of a DataFrame
+-Selecting single and multiple columns
+-Selecting rows using `.loc` and `.iloc`
+-Accessing individual values with `.at` and `.iat`
+-Selecting subsets of rows and columns
+-Boolean indexing for filtering data
+-Filtering with comparison operators
+-Combining multiple conditions using `&`, `|`, and `~`
+-Filtering using `.isin()` and `.between()`
+-Filtering text with string methods (`.str.startswith()`, `.str.endswith()`, `.str.contains()`)
+-Understanding the differences between `.loc`, `.iloc`, `.at`, and `.iat`
+-Common indexing mistakes and best practices
+
 ### 3. [Filtering, Sorting & Feature Creation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/filtering_sorting_and_feature_creation_in_pandas.ipynb)
 - Boolean indexing and advanced filtering
 - Sorting by index or column values
