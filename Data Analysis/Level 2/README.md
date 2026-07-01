@@ -9,18 +9,6 @@ Utilize Exploratory Data Analysis (EDA) techniques to gain a deeper understandin
 
 ## What to Learn
 
-### [1. Descriptive Statistics](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/descriptive_statistics.ipynb)
-Understand key summary metrics:
-- **Mean** – The average value.
-- **Median** – The middle value in sorted data.
-- **Mode** – The most frequent value.
-- **Standard Deviation** – How spread out the values are from the mean.
-- **Min/Max/Count** – Basic range and size.
-
-> Use `.describe()` in Pandas to get a quick summary.
-
----
-
 ### [2. Correlation & Covariance](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/correlation_covariance.ipynb)
 - **Correlation** measures the strength and direction of a linear relationship between two variables.
 - **Covariance** shows how two variables change together.
