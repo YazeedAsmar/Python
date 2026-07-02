@@ -9,13 +9,11 @@ Utilize Exploratory Data Analysis (EDA) techniques to gain a deeper understandin
 
 ## What to Learn
 
-### [1. Correlation & Covariance](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/correlation_covariance.ipynb)
+### [1. Correlation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/correlation_covariance.ipynb)
 - **Correlation** measures the strength and direction of a linear relationship between two variables.
-- **Covariance** shows how two variables change together.
 
 ```python
 df.corr()        # Correlation matrix
-df.cov()         # Covariance matrix
 ```
 
 > Use heatmaps (e.g., in Seaborn) to visualize correlation matrices.
