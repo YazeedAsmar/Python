@@ -35,7 +35,7 @@ df.pivot_table(values='sales', index='region', columns='product')
 ---
 
 ### [3. Outlier Detection & Distributions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/outlier_detection_%26_distributions.ipynb)
-- Use boxplots, histograms, or Z-scores to detect **outliers**.
+- Use boxplots, histograms to detect **outliers**.
 - Understand **data distribution shape**: Normal, skewed, etc.
 
 
