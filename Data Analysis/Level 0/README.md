@@ -10,6 +10,8 @@ Develop core programming and mathematical skills necessary for data analysis. Th
 ## What You’ll Learn
 
 ### 1. Python Programming
+- Variables 
+- Casting (conversion between Data Types)
 - Data types (int, float, string, list, tuple, dict, set)
 - Control flow (if-else, loops)
 - Functions and modular code
